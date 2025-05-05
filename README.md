@@ -1,2 +1,2 @@
-# CFI Finance Fundamentals
-Implementing my own solutions of CFI finance fundamentals in Python &amp; PowerShell to practice scripting
+# Fundamental Finance Scripts
+Implementing my own solutions of fundamental finance concepts in Python & PowerShell to practice scripting 
